@@ -74,7 +74,7 @@ Você pode deixar o repositório **público ou privado**. Caso escolha privado, 
 
 ➡️ **advicegroup**
 
-O link do repositório deve ser enviado **até 19/11/2025 às 23:59**.
+O link do repositório deve ser enviado **até 19/11/2025 às 23:59** para o email **contato@advicegroup.com.br**.
 
 ⚠️ **Commits feitos após essa data e horário não serão considerados na correção.**
 
